@@ -1,28 +1,17 @@
-
-
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tag HTML Dasar</title>
-<head>
-<body> 
-
-</body>
+    <title> Tag HTML dasar</title>
+</head>
+<body>
 </html>
 
-<nav>
-    <a href="lab1_tag_dasar.html">Dasar HTML</a>
-    <a href="lab1_halaman2.html">Halaman 2</a>
-    <a href="http://www.google.com">Halaman Web Eksternal Google</a>
-    </nav>
-    <hr>
-
-<h1>Belajar dasar HTML </h1>
-<p> kami sedang belajar html dasar mohon bimbingannya dengan baik agar tidak salah</p>
-
-<h1>logo pelita bangsa  </h1>
-
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/bfff530e-f5e5-4fad-9b01-8dccc27095b9">
+<body>
+<html>
 
 
+<P>kami sedang belajar HTML dasar, pada matakuliah pemograman web di prodi teknik informatika universitas Pelita bangsa.pelajaran pertama yang kami dapat adlaah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.
+</P>
+<P>ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga mena=jadi satu kesatuan.paragraf dibuat dengan menggunakan tag dasar HTML.</P>
 
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/cfd09d6c-7800-4b99-8063-78cff8b06622">
