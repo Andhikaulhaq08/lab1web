@@ -25,6 +25,13 @@
 
 <img width="935" alt="image" src="https://github.com/user-attachments/assets/23aa365c-2df2-4e40-80f9-837666563fbb">
 
+<nav>
+    <a href="lab1_tag_dasar.html">Dasar HTML</a>
+    <a href="lab1_halaman2.html">Halaman 2</a>
+    <a href="http://www.google.com">Halaman Web Eksternal Google</a>
+    </nav>
+    <hr>
+<img width="905" alt="image" src="https://github.com/user-attachments/assets/bc425c9f-a315-457f-a979-9cc09ace5c44">
 
 
 
