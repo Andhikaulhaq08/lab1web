@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,5 +21,8 @@
 <p> kami sedang belajar html dasar mohon bimbingannya dengan baik agar tidak salah</p>
 
 <h1>logo pelita bangsa  </h1>
-<img src="download.png" title="pelita bangsa">
+
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/bfff530e-f5e5-4fad-9b01-8dccc27095b9">
+
+
 
