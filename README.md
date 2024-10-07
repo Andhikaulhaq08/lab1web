@@ -15,3 +15,17 @@
 <P>ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga mena=jadi satu kesatuan.paragraf dibuat dengan menggunakan tag dasar HTML.</P>
 
 <img width="937" alt="image" src="https://github.com/user-attachments/assets/cfd09d6c-7800-4b99-8063-78cff8b06622">
+
+<h1>belajar dasar HTML</h1>
+<h2>Paragraf pada HTML</h2>
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/aceb738f-fd9c-4ac8-a7fb-9eae9763dd65">
+
+<h3>Menambahkan gambar</h3>
+<img src="download.png" title="Logo universitas pelita bangsa">
+
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/23aa365c-2df2-4e40-80f9-837666563fbb">
+
+
+
+
+
